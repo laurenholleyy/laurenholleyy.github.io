@@ -11,4 +11,4 @@ navbar:
       href: http://github.com/lah2227/
 output:
   html_document:
-    theme: cerulean
+    theme: sandstone
