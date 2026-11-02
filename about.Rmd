@@ -4,6 +4,6 @@ title: "About"
 
 ### About this site
 
-This site was created using R Markdown in RStudio and is hosted on GitHub. The source code can be found on GitHub. 
+This site was created using R Markdown in RStudio and is hosted on GitHub. The [source code](https://github.com/laurenholleyy/laurenholleyy.github.io) can be found on GitHub. 
 
 RStudio version 2026.09.0+174
