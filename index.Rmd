@@ -7,5 +7,6 @@ output:
     theme: sandstone
 ---
 
-# This is Lauren's website!
+# Welcome to my website!
 
+My name is Lauren! I am a first-year MS Biostatistics student at Columbia University, and I am learning data science using R for the first time!
