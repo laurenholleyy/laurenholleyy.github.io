@@ -4,4 +4,4 @@ title: "Academic and Professional Experience"
 
 Before Columbia, I graduated from UC San Diego in 2026, where I double majored in Public Health with a concentration in Epidemiology and Cognitive and Behavioral Neuroscience. I worked in research for over two years before making the decision to transition to business and consulting.
 
-<img src="images/resume.jpeg" style="width:100%">
+[View my resume](resume.pdf)
